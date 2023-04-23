@@ -4,7 +4,7 @@
 # Myst
 
 ## Description
-Myst is a full-stack replication of a steam product page built by a global remote development team of 4 people.
+Myst is a full-stack replication of a steam product page built in a week by a global remote development team of 4 people.
 
 ## Table of Contents
 * [Installation](#installation)
